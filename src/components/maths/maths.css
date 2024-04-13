@@ -1,0 +1,42 @@
+.heading{
+    
+    font-size: 35px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 19px;
+    padding-top: 0;
+}
+
+
+.tableMath{
+    display: inline-block;
+    width: 57%;
+    height: 466px;
+    margin-left: 35px;
+    background-color: #8ecae6;
+    color: black;
+    font-weight: 600;
+    
+}
+
+ tr:hover {background-color: rgba(110, 170, 233, 0.847);}
+.m{
+    padding: 4px;
+}
+
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.mthImg {
+    width: 28%;
+    float: right;
+    margin-right: 70px;
+    margin-top: 50px;
+    border-radius: 50%;
+    animation: float 2s ease-in-out infinite;
+}
